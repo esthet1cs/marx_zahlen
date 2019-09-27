@@ -20,8 +20,7 @@ Die für die Herstellung des Diagramms abschließend verwendeten Textdaten finde
 
 - ./text/marx_kapital01_1867
 - Bibliografische Angaben: Marx, Karl: Das Kapital. Buch I: Der Produktionsprocess des Kapitals. Hamburg, 1867. In: Deutsches Textarchiv <http://www.deutschestextarchiv.de/marx_kapital01_1867>, abgerufen am 22.04.2019.
-- URN: urn:nbn:de:kobv:b4-200905193769
-- Link: <http://www.nbn-resolving.org/urn/resolver.pl?urn=urn:nbn:de:kobv:b4-200905193769>
+- Lizenz: CC-BY-NC <https://creativecommons.org/licenses/by-nc/3.0/de/>
 
 #### mlwerke.de:
 
