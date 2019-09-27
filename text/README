@@ -1,0 +1,10 @@
+dateiname,kommentar,zeichenanzahl
+- marx_kapital01_1867.txt, ausgangstext wie vom deutschen textarchiv
+heruntergeladen,1898938
+- marx_kapital_erster-band_gekürzt.txt, um inhaltsverzeichnis und druckfehler
+  gekürzt, 1895076 
+- zahlen.txt: Sämtliche ganze Zahlen, die im Text vorkommen (Set, d.h. jede
+  Zahl nur einmal)
+
+
+
