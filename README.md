@@ -1,5 +1,5 @@
 % Forschungsdaten zum Text "Zahlen erzählen"
-% Claus-Michael Schlesinger
+% CMS
 % September 2019
 
 Die in diesem Verzeichnis abgelegten Daten gehören zum Text "Zahlen erzählen". Sie sind ohne den kultur- und wissensgeschichtlichen Hintergrund im Text kaum nützlich.
